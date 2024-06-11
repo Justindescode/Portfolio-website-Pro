@@ -68,6 +68,9 @@
   .btn-container {
     flex-wrap: wrap;
   }
+  .about-details-container {
+    margin: 0;
+  }
   .contact-info-container {
     margin: 0;
   }
